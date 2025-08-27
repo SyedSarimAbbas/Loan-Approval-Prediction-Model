@@ -50,7 +50,7 @@ Train with real-world datasets for production-level accuracy.
 
 ## Installation & Setup
 ## Clone the Repository
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/SyedSarimAbbas/loan-approval-prediction.git
 cd loan-approval-prediction
 
 ## Create Virtual Environment (Optional but Recommended)
